@@ -1,0 +1,2 @@
+pandas
+eng-to-ipa
